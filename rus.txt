@@ -1,0 +1,20 @@
+D:\WEB DESIGN\Samp Portal\style.css(1) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(17) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(46) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(55) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(56) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(60) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(74) : îřčáęŕ 031: íĺčçâĺńňíŕ˙ äčđĺęňčâŕ
+D:\WEB DESIGN\Samp Portal\style.css(75) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(76) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(81) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(84) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(96) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(100) : îřčáęŕ 010: íĺâĺđíŕ˙ ôóíęöč˙ čëč îáú˙âëĺíčĺ
+D:\WEB DESIGN\Samp Portal\style.css(110) : îřčáęŕ 054: íĺńîîňâĺňńňâóţůŕ˙ çŕęđűâŕţůŕ˙ ńęîáęŕ ("}")
+D:\WEB DESIGN\Samp Portal\style.css(152) : îřčáęŕ 054: íĺńîîňâĺňńňâóţůŕ˙ çŕęđűâŕţůŕ˙ ńęîáęŕ ("}")
+D:\WEB DESIGN\Samp Portal\style.css(159) : îřčáęŕ 013: îňńóňńňâóĺň ňî÷ęŕ âőîäŕ (íĺň public-ôóíęöčé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îřčáîę:16.
